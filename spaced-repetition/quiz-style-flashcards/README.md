@@ -32,7 +32,7 @@ Here's how you can adapt the spaced-repetition algorithm to factor in correct or
        - If the repetitions (R) are 2, set the interval (I) to 6 days.
        - If the repetitions (R) are greater than 2, set the interval (I) to:
          \[
-         I = I \times E
+         I = I * E
          \]
        - Ensure the ease factor (E) is at least 1.3 to prevent it from dropping too low.
 
