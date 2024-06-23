@@ -34,7 +34,8 @@ Here's how you can adapt the spaced-repetition algorithm to factor in correct or
          \[
          I = I * E
          \]
-       - Ensure the ease factor (E) is at least 1.3 to prevent it from dropping too low.
+      - In both cases:
+        - Ensure the ease factor (E) is at least 1.3 to prevent it from dropping too low.
 
 4. **Next Review Date**:
 
